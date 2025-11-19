@@ -6,4 +6,4 @@ Tomás Duarte
 Tiago Figueiredo
 
 ## Link para o site
-https://tomasduarte77.github.io/projTI/
+![Qr code](https://tomasduarte77.github.io/projTI/qrcode.png "Qr Code site")
